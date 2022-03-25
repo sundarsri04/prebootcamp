@@ -1,0 +1,119 @@
+  						Food Ordering App
+
+
+ABSTRACT : To get Foods instantly from Best Restaurants around us.
+
+Types of Users :
+
+	# Seller
+
+	# Buyer
+
+	# Admin
+
+
+Seller Module :
+
+	# Registration Process
+	# KYC Uploading Process
+	# Verification Process
+	# Add / Remove food menu as well as price details
+
+
+Buyer Module :
+
+	# Registration Process
+	# Verification Process
+	# Chosen the right food
+	# Place the Order
+	# Payment Process
+
+Admin Module :
+
+	# Validate the sellers and highlight Verified sellers
+	# Highlighting the best restaurants by customer reviews
+	# Add / Remove Seller
+	# Validate login / sing up details from database
+
+
+Work Flow :
+
+Login page :
+
+	# Sign in / sign up
+	# Enter Mobile number / Email — send OTP
+	# Login
+	# Forgot Password — OTP — Change Password
+	# Add Address / Use current Location
+
+Menu page :
+
+	# Logo
+	# Menu (Home, Categories, About, Contact )
+
+Food Search page :
+
+	# Food Search
+	# Search Button
+	
+Categories page :
+
+	# South Indian
+	# North Indian
+	# Biryani
+
+Food Menu page : 
+
+	# Mutton Biryani
+	# Checken Biryani
+	# Guvi’s Special Biryani
+	# Food Description and price
+
+Order page :
+
+	# Name of the Food
+	# Quantity
+	# Total
+	# Customer Name
+	# Customer Contact
+	# Customer Address 
+	# Confirm Order message.
+	# Place Order.
+
+Data Base:
+
+Category :
+
+	# id				-	Primary Key
+
+	# Title			-	Foreign key
+	 
+	 # Image			-	   Foreign key
+
+Food Menu :
+
+	# id				-	Primary key
+
+	# Title				-	foreign key
+
+	# Price				-	foreign key
+
+	# image			-	foreign key
+
+Order :
+
+	# id					-	Primary  key
+
+	# Quantity			-	foreign key
+
+	# Total				-	foreign key
+
+	# Customer Name	-	foreign key
+
+	# Customer Contact-		foreign key
+
+	# Customer Address	-	foreign key
+	
+
+
+
