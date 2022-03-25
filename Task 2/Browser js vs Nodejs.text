@@ -1,0 +1,47 @@
+Browser js :
+
+# Running Engine :
+    // Browser.js runs in any engine like Spider Monkey, Javascript core, V8.
+
+# Missing Objects :
+
+    It has "Window", "Location", "Document" as predefined objects but browser is missingon these,
+
+        // "global" object contains several functions that are not available in browser as they are they are neede for server side works only.
+
+# Headless : 
+
+    // Browser are not headless.
+
+# Modularity : 
+
+    // Moduling is not mandatory for Browser js.
+
+# Application :
+
+    // Browser js is mainly used for clint-side applications like validations on a web page or dynamic page display
+
+
+Node js :
+
+# Running Engine :
+
+    // It runs in V8 engine Which is mainly used by Google chrome.
+
+
+# Missing Objects :
+
+    // In Node.js many objects are missing like, "window", "location", "Document". 
+
+# Headless : 
+
+    // It is headless i.e. without any GUI.
+
+# Modularity : 
+
+    // In Node.js everything is a module. It is mandatory to keep everything inside a module.
+
+# Application :
+
+    // In Node.js javascript codes get executed outside the browser as it is an interpreter as well as a environment for nunning javascript
+    and used for server-side Applications.
