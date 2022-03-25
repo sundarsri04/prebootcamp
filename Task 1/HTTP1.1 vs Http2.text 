@@ -1,0 +1,20 @@
+HTTP 1.1 VS HTTP 2
+
+HTTP 1.1 : 
+
+# Load Resources one after another. So if one resource can’t be loaded, it blocks all the resources.
+
+# It compresses data by itself.
+
+
+HTTP 2 :
+
+# It is much faster and more efficient than HTTP 1.1.
+
+# Allows Server push.
+
+# Enables Multiplexing.
+
+# Compress HTTP headers.
+
+# It uses HPACK for data compression.

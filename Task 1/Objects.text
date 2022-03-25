@@ -1,0 +1,6 @@
+OBJECTS AND ITS INTERNAL REPRESENTATION
+
+A Javascript Object is a data type which is represented in key value pairs. Almost all the variables in Javascript are instances
+of object with their object property shadowed. One such example is the Array in Javascript which has data type as Object.
+Internally the Array in Javascript stores values in the Key value format each index being the Key. Hence when the Array is printed
+on the console log it shows an Object of Index Keys and value pairs.
