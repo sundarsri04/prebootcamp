@@ -86,9 +86,9 @@ Category :
 
 	# id				-	Primary Key
 
-	# Title			-	Foreign key
+	# Title				-	Foreign key
 	 
-	 # Image			-	   Foreign key
+	 # Image			-	Foreign key
 
 Food Menu :
 
@@ -98,21 +98,21 @@ Food Menu :
 
 	# Price				-	foreign key
 
-	# image			-	foreign key
+	# image				-	foreign key
 
 Order :
 
-	# id					-	Primary  key
+	# id				-	Primary  key
 
 	# Quantity			-	foreign key
 
 	# Total				-	foreign key
 
-	# Customer Name	-	foreign key
+	# Customer Name			-	foreign key
 
-	# Customer Contact-		foreign key
+	# Customer Contact		-	foreign key
 
-	# Customer Address	-	foreign key
+	# Customer Address		-	foreign key
 	
 
 
