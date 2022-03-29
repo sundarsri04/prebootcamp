@@ -1,0 +1,66 @@
+{
+    
+    "basics": {
+      "name": "MEGAVRANAPANDI",
+      "label": "ELECTRICAL ENGINEER",
+      "email": "sundarsri04@gmail.com",
+      "phone": "8675290240",
+      "degree": "BE.EEE",
+      "highlights": null,
+      "location": {
+        "address": "B134, SBIOA Unity Enclave, Mambakkam",
+        "postalCode": "600127",
+        "city": "Chennai",
+        "countryCode": "+91",
+        "state": "tamilnadu"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "sundarsri",
+          "url": "https://github.com/sundarsri04/prebootcamp"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institute": "Sree Sastha College of Engineering",
+        "Department": "BE. EEE",
+        "university": "AnnaUniversity",
+        "place": [
+          "Chennai", "India"
+        ]
+      },
+      {
+        "institute": "Sri Annamalaiyar Polytechnic College",
+        "Department": "BE. EEE",
+        "university": "AnnaUniversity",
+        "place": [
+          "Kanchipuram", "India"
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "SERP Auto spare parts Ltd company",
+        "position": "Assistant Engineer",
+        "place": "China",
+        "startDate": "December 2019",
+        "endDate": "december 2021",
+        "highlights": [
+          "Providing Assistance in the assembly", "Performed Quality Assurance and control"
+        ]
+      }
+    ],
+    "additionalWork": [
+      {
+        "company": "EAST WIND FOOTWEAR company Ltd",
+        "position": "Assistant Engineer",
+        "startDate": "June 2015",
+        "endDate": "oct 2019",
+        "highlights": [
+          "Install Machinery and Equipments", "To make inspections assess potential problems"
+        ]
+      }
+    ]
+  }
